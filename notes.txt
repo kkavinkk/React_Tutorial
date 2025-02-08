@@ -1,0 +1,15 @@
+LETS GET IT STARTED
+A TUTORIAL BY "PROGRAMING WITH MOSH" ON YOU TUBE LETS GET THIS
+
+What should you know?
+ Html
+ js
+ Css
+ we good
+
+ TypeScript
+    advanced version of js not worry ab IT
+
+What is React?
+    A js library to help build dynamic pages
+    React made by fb in 2011
