@@ -13,3 +13,9 @@ What should you know?
 What is React?
     A js library to help build dynamic pages
     React made by fb in 2011
+
+Instead of using dom elements components will help us write cooler more fluid stuff
+
+Build components individually and then combine
+
+A "tree" of elemnts with the app as tthe wood
