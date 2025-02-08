@@ -19,3 +19,7 @@ Instead of using dom elements components will help us write cooler more fluid st
 Build components individually and then combine
 
 A "tree" of elemnts with the app as tthe wood
+
+library is a tool that provides specific functionality
+
+FrameWorks is a set of tools and guide lines for building apps
