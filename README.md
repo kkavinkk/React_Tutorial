@@ -1,2 +1,2 @@
-# React_Tutorial
-Learning React using a tutorial
+# React Tutorial
+Learning React using a tutorial by Mosh
