@@ -3,7 +3,7 @@ import { MouseEvent } from "react";
 
 function ListGroup() {
   let items = ["New York", "San Francisco", "London", "Tokyo", "Paris"];
-
+  let selectedIndex = 0;
   // Event Handler
   const handleClick = (event: MouseEvent) => console.log(event);
 
